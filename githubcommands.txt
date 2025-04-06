@@ -29,3 +29,5 @@ git log - View commit history.
 git rm -r  - Remove a file from the repository.
 
 git remote -v - Show configured remote repositories.
+
+git cherrypick <commit-id> 
